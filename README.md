@@ -4,6 +4,5 @@ Crear un sketch sobre una tienda de accesorios pero sin título ni productos. So
 - Sobre esto:
 
 Preguntar sobre qué transmite cada página con base a la paleta de colores y documentarlo en un README.md
-![imagen](file:///C:/Users/julissa%20ibarra/Pictures/Saved%20Pictures/Sin%20t%C3%ADtulo.jpg)
 
-![imagen](file:///C:/Users/julissa%20ibarra/Pictures/Saved%20Pictures/Sin%20t%C3%ADtulo.jpg)
+![jjj](https://www.facebook.com/anyicreaciones/)
